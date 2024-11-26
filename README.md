@@ -1,2 +1,2 @@
 # UsersAndExamsAPIs
-A Spring Boot Project to relate two APIs together 
+A Spring Boot Project to create Users and Exams for testing
